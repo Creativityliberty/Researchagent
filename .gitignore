@@ -1,0 +1,41 @@
+# Environnement virtuel
+venv/
+env/
+ENV/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Fichiers de log
+*.log
+logs/
+
+# Fichiers de résultats générés
+results/
+
+# Fichiers d'environnement (contenant des clés API)
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*~
